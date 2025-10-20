@@ -36,7 +36,7 @@ export default async function Page({
   return (
     <main style={{ display: "flex", flexDirection: "column" }}>
       {/* HERO (más bajo y sin difuminado) */}
-      <section className="hero acab-hero">
+      <section className="hero acab-hero">  
         <Image
           src="/media/heroacabado.jpg"
           alt="Acabados profesionales"
