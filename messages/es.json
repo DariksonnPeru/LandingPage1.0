@@ -1,0 +1,29 @@
+{
+  "app_title": "Servicios Generales Darikson",
+  "nav_home": "Inicio",
+  "nav_pagina2": "Arquitectura",
+  "nav_pagina3": "Construcción",
+  "nav_pagina4": "Acabados",
+
+  "section_architecture": "Arquitectura",
+  "section_Construcción": "Construcción",
+  "section_finishes": "Acabados",
+  "section_contact": "Contáctame / Cotización",
+
+  "cta_primary": "Solicitar cotización",
+  "cta_secondary": "Ver servicios",
+
+  "hero_title": "Arquitectura, Construcción y Acabados",
+  "hero_subtitle": "Diseñamos, construimos y entregamos con calidad — profesional, rápido y con detalle.",
+
+  "footer_rights": "Todos los derechos reservados.",
+
+  "meta_title_home": "Inicio — Servicios Generales Darikson",
+  "meta_desc_home": "Servicios de arquitectura, Construcción y acabados de Servicios Generales Darikson.",
+  "meta_title_pagina2": "Arquitectura — Servicios Generales Darikson",
+  "meta_desc_pagina2": "Servicios de arquitectura: concepto, planos y permisos.",
+  "meta_title_pagina3": "Construcción — Servicios Generales Darikson",
+  "meta_desc_pagina3": "Servicios de Construcción para obras seguras y eficientes.",
+  "meta_title_pagina4": "Acabados — Servicios Generales Darikson",
+  "meta_desc_pagina4": "Acabados de alta calidad y ejecución llave en mano."
+}

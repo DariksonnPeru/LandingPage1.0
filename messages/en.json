@@ -1,0 +1,29 @@
+{
+  "app_title": "Servicios Generales Darikson",
+  "nav_home": "Home",
+  "nav_pagina2": "Architecture",
+  "nav_pagina3": "Construction",
+  "nav_pagina4": "Finishes",
+
+  "section_architecture": "Architecture",
+  "section_Construction": "Construction",
+  "section_finishes": "Finishes",
+  "section_contact": "Contact / Quote",
+
+  "cta_primary": "Get a Quote",
+  "cta_secondary": "See Services",
+
+  "hero_title": "Architecture, Construction & Finishes",
+  "hero_subtitle": "We design, build and deliver premium results — professional, fast and detail-driven.",
+
+  "footer_rights": "All rights reserved.",
+
+  "meta_title_home": "Home — Servicios Generales Darikson",
+  "meta_desc_home": "Architecture, Construction and finishes services by Servicios Generales Darikson.",
+  "meta_title_pagina2": "Architecture — Servicios Generales Darikson",
+  "meta_desc_pagina2": "Architecture services: concept, plans and permits.",
+  "meta_title_pagina3": "Construction — Servicios Generales Darikson",
+  "meta_desc_pagina3": "Construction services for safe, efficient builds.",
+  "meta_title_pagina4": "Finishes — Servicios Generales Darikson",
+  "meta_desc_pagina4": "High-quality finishes and turn-key execution."
+}
