@@ -26,14 +26,14 @@ export default function Header() {
   const pathname = usePathname() || "/";
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
-  const [locale, setLocale] = useState<Locale>("en" as Locale);
+  const [locale, setLocale] = useState<Locale>("es" as Locale);
   const panelRef = useRef<HTMLDivElement | null>(null);
   const toggleRef = useRef<HTMLButtonElement | null>(null);
 
   useEffect(() => {
     const parts = pathname.split("/").filter(Boolean);
-    const first = (parts[0] as Locale) || "en";
-    setLocale(((LOCALES as readonly string[]).includes(first) ? first : "en") as Locale);
+    const first = (parts[0] as Locale) || "es";
+    setLocale(((LOCALES as readonly string[]).includes(first) ? first : "es") as Locale);
   }, [pathname]);
 
   useEffect(() => {
