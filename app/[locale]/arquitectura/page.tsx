@@ -236,7 +236,7 @@ export default async function Page({
                 items: ["Muebles empotrados", "Closets y vestidores", "Cocinas integrales", "Bibliotecas y estanterías", "Puertas y marcos"],
               },
               {
-                img: "/media/acabados-drywall.jpg",
+                img: "/media/acabados-drywall.JPG",
                 t: "Drywall y tabiquería",
                 items: ["Divisiones interiores", "Cielos rasos decorativos", "Nichos y estanterías", "Aislamiento acústico", "Acabados resistentes"],
               },
